@@ -53,3 +53,6 @@ body {
 .curso{
     color: rgb(197, 197, 129);
 }
+.divisao{
+    display: flex;
+}
